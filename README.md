@@ -4,7 +4,7 @@ A redesign instagram app concept built with Flutter
 
 # Design By
 
-![Nicholas.design](https://dribbble.com/shots/14689590-Instagram-redesign-concept)
+[Nicholas.design](https://dribbble.com/shots/14689590-Instagram-redesign-concept)
 
 # ScreenShots
 
